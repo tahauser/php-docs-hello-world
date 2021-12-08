@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World!";
+echo "Hello IPSSI-ENS!";
 echo "<BR>";
 echo "Are you ready?";
