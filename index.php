@@ -1,5 +1,5 @@
 <?php
 
-echo "<H1>Hello M2I!</H1>";
+echo "<H1>Hello! Are you ready</H1>";
 echo "<BR>";
 echo "Are you ready?";
