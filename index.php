@@ -5,5 +5,5 @@ echo "<H1>Hello from GitHub!</H1>";
 <BR>
   
 <?php
-echo "<H1>Ceci est une mise à jour via GitHub</H1>";
+echo "<H1>Ceci est une mise à jour via mon poste local</H1>";
 ?>
